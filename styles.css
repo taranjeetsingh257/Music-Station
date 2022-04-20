@@ -1,0 +1,79 @@
+body {
+  text-align: center;
+  background-color: #222831;
+}
+
+h1 {
+  font-size: 7rem;
+  color: #F0E9D2;
+  font-family: 'Genos', sans-serif;
+  text-shadow: 4px 0 #678983;
+}
+
+footer {
+  color: #EEEEEE;
+  font-family: sans-serif;
+}
+
+.w {
+  background-image: url("images/perc.png");
+}
+
+.a {
+  background-image: url("images/shake.png");
+}
+
+.s {
+  background-image: url("images/hho.png");
+}
+
+.d {
+  background-image: url("images/hh.png");
+}
+
+.j {
+  background-image: url("images/snare.png");
+}
+
+.k {
+  background-image: url("images/crash.png");
+}
+
+.l {
+  background-image: url("images/kick.png");
+}
+
+.v {
+  background-image: url("images/melody1.png");
+}
+
+.b {
+  background-image: url("images/melody2.png");
+}
+
+.set {
+  margin: 5% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.drum_button {
+  outline: none;
+  border: 9px solid #393E46;
+  color: #00ADB5;
+  text-shadow: 3px 0 #678983;
+  font-family: 'Genos', sans-serif;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 900;
+  line-height: 2.2;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  background-color: white;
+}
