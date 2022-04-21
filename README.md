@@ -13,7 +13,7 @@ Users can play the whole drumset using their fingers and add their flavour to an
 The First Row:
 The First Row has 7 drums/percussion elements which are as follows:
 
-    - 'w' for ***Congo***
+    'w' for ***Congo***
     - 'a' for ***Shaker***
     - 's' for ***Open Hi-Hat***
     - 'd' for ***Closed Hi-Hat***
